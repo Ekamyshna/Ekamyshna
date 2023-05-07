@@ -31,5 +31,5 @@ communicator possess fluency in English, Ukrainian and Russian.
 * BA (Hons) Commodity Science & Expertise (2008)
 
 ### Connect with me:
-* [Github](https://github.com/Ekamyshna/Ekamyshna)
-* [LinkedIn](https://www.linkedin.com/in/elina-kamyshna-0942a393/)
+[![image](https://user-images.githubusercontent.com/127347872/236691164-7104b00f-eb9a-4332-ba3a-4123f2659cfc.png)](https://github.com/Ekamyshna/Ekamyshna)
+[![image](https://user-images.githubusercontent.com/127347872/236690991-b6e909e2-044d-4fa7-bda2-f4f12c19ede9.png)](https://www.linkedin.com/in/elina-kamyshna-0942a393/)
