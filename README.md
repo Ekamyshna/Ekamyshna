@@ -34,3 +34,4 @@ communicator possess fluency in English, Ukrainian and Russian.
 [![image](https://user-images.githubusercontent.com/127347872/236691583-c2930a05-41c3-4240-ae07-1c5b63d37d87.png)](https://github.com/Ekamyshna/Ekamyshna)
 
 [![image](https://user-images.githubusercontent.com/127347872/236691634-ec559204-84e1-44a9-99e4-312eed15fa7a.png)](https://www.linkedin.com/in/elina-kamyshna-0942a393/)
+
